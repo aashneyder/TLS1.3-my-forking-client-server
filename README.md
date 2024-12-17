@@ -1,6 +1,6 @@
 # TLS1.3-my-forking-client-server-
 
-Forking client-server for univercity project TLS 1.3 realization 
+Forking client-server for university project TLS 1.3 realization 
 
 Here is my part of progect: init srv-process (by fork) for each client (using standart sockets Linux) and client realization
 
